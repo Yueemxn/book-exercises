@@ -21,3 +21,4 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 - tofu and bean sprouts
 - spicy soup
 - ramen
+- corn and cheese
