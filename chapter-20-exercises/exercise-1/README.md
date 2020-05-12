@@ -1,4 +1,5 @@
 # Exercise 1
+##Life is like a slow dying process
 In this exercise, you'll practice working with branches, including **merging** changes between them.
 
 To complete the exercise, follow the below steps:
